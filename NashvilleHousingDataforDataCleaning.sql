@@ -1,4 +1,3 @@
-#https://www.youtube.com/watch?v=8rO7ztF4NtU&t=2815s
 use Portfolio;
 drop table if exists Portfolio.NashvilleHousing;
 
